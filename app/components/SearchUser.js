@@ -29,7 +29,7 @@ var SearchUser = React.createClass({
                         </div>
                         <button
                         type="submit"
-                        className="btn btn-primary">Buscar
+                        className="btn btn-primary">Search
                         </button>
                     </form>
                 </div>

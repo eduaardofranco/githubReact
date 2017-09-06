@@ -23,7 +23,7 @@ function UserInfo(props) {
 
 /**
     Protypes eu defino que meu componente
-    tem algumas propriedades/funcções etc
+    tem algumas propriedades/funções etc
     eu posso user o required 
 **/ 
 UserInfo.propTypes = {
